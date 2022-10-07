@@ -6,3 +6,4 @@ Font design is a repetitive job that requires specialized skills. Unlike the exi
 .ipynb file in the repositories can be used after being uploaded to Google colab
 # Examples
 ![Image text](https://github.com/songyiren98/CLIPFont/blob/main/CLIPfont_code/font.png)
+![Image text]([https://github.com/songyiren98/CLIPFont/blob/main/CLIPfont_code/font.png](https://github.com/songyiren98/CLIPFont/blob/main/CLIPfont_code/font2.pdf))
